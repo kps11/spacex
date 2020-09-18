@@ -5,13 +5,7 @@
     margin-top: 2rem;
 }
 
-body{
-  margin: 0%;
-  -webkit-font-smoothing:antialiased ;
-  -moz-osx-font-smoothing:grayscale;
-  width: 100%;
-  overflow-x: hidden;
-}
+
 
 header{
   display: grid;

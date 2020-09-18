@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "lodash";
-import "./App.css";
+import "./style/App.css";
 import { getMissionData } from "./redux/actions/missionActions";
 import { useSelector, useDispatch } from "react-redux";
 import Card from "./components/card";
