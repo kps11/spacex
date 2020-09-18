@@ -1,0 +1,4 @@
+export const GET_DATA_SUCESS ="GET_DATA_SUCESS"
+export const GET_DATA_BEGIN ="GET_DATA_BEGIN"
+export const GET_DATA_FAILURE ="GET_DATA_FAILURE"
+
